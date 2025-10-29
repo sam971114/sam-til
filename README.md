@@ -13,3 +13,6 @@
 25.10.27 ConcurrentHashMap의 동시성
 
 25.10.28 영속성 컨텍스트
+
+25.10.29 단방향,양방향 연관관계
+25.10.29 @OneToOne, @OneToMany, @ManyToOne
