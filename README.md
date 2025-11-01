@@ -16,3 +16,7 @@
 
 25.10.29 단방향,양방향 연관관계
 25.10.29 @OneToOne, @OneToMany, @ManyToOne
+
+25.10.30 Proxy, JPQL
+
+25.10.31 @Query Method, @EntityGraph(N+1 Problem)
